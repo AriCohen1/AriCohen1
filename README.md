@@ -3,7 +3,7 @@
 Computer Science student at King's College London (BSc, 2025–2028).
 
 I like building things end to end — recently taught myself TypeScript and built a
-[pathfinding visualiser](https://vercel.com/aricohen/pathfinding-visualiser/4fWjrzR8iPK3zDD18UQg6QWiqygm) from scratch.
+[pathfinding visualiser](https://pathfinding-visualiser-one.vercel.app) from scratch.
 
 **Working with:** TypeScript · Java · Python · SQL
 
